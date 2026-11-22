@@ -1,0 +1,8 @@
+{
+  "name": "Meridian General Hospital",
+  "description": "Patient and administrator portal for hospital profile, live doctor availability, per-doctor OPD token queues, and integrated consultation payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
